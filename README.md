@@ -1,4 +1,4 @@
-# 🩺 Chest X-ray Report Generation via Vision-Language Models
+# 🩺 Chest X-ray Report Generation via Vision-Language Model
 
 A modular monolithic web application that generates radiology-style reports from chest X-ray images using Vision-Language Models (VLMs) and supports multilingual, contextual question-answering via Large Language Models (LLMs).
 
